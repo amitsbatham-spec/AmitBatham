@@ -1,0 +1,2 @@
+# AmitBatham
+Amit Batham | Data Analyst 📊 Excel · Power BI · SQL · Python Transforming raw data into actionable insights through dashboards, data modelling, and in-depth analysis. Backed by real-world experience and a growing portfolio of personal projects. 🌱 Currently learning: Machine Learning · Azure · Lean Six Sigma Green Belt 💼 Open to new opportunities
